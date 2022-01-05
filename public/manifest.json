@@ -1,0 +1,56 @@
+{
+  "name": "NoDashCam",
+  "short_name": "NoDashCam",
+  "description": "We all would love to have blackvue dashcam, but in a mean time you can use your mobile phone as a dashcam. \nYou dont have dashcam. \nYou don't need dashcam. \nYou have a dashcam inside your pocket, it’s called a mobile phone. \nUse it with NoDashCam app.",
+  "icons": [
+    {
+      "src": "/images/icons/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "features": [
+    "Lightweight",
+    "GPS Location",
+    "Speed",
+    "Maps",
+    "Timestamp"
+  ],
+  "screenshots": [
+    {
+      "src": "https://cdn.glitch.com/ce7722b1-a36b-4606-b878-ee34cb468bfa%2Finstallsnip.png?v=1573316626664",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.glitch.com/ce7722b1-a36b-4606-b878-ee34cb468bfa%2Fpwainstall.glitch.me_(Pixel%202%20XL).png?v=1591213289513",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.glitch.com/ce7722b1-a36b-4606-b878-ee34cb468bfa%2Finstallsnip.png?v=1573316626664",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.glitch.com/ce7722b1-a36b-4606-b878-ee34cb468bfa%2Finstallsnip.png?v=1573316626664",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#6f82ff",
+  "theme_color": "#6f82ff"
+}
